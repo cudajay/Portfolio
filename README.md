@@ -1,2 +1,2 @@
-# GAcnn
-Segmentation Network grown with Genetic approach
+# DL compilation
+a collection of my deep learning projects.
